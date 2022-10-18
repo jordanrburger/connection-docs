@@ -5,7 +5,7 @@ redirect_from:
   - /getting-started/
 ---
 
-This tutorial will guide you through basic usage of Keboola Connection (KBC).
+This tutorial will guide you through basic usage of Keboola Connection (KBC). Change
 
 Before you start, make sure you have **basic knowledge of** [SQL](https://en.wikipedia.org/wiki/SQL) and
 **access to a KBC project** (preferably empty). To get set up, either ask one of our partners,
